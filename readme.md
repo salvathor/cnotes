@@ -7,4 +7,4 @@ If you are using c
 
 If you are using c++ 
 
--gcc file.c -o file 
+- gcc file.c -o file 
