@@ -2,7 +2,7 @@
 
 ## Notes for beginners
 
-### How to compile 'terminal'
+### How to compile ´terminal´
 
 If you are using c language, you can compile this way:
 
@@ -13,7 +13,7 @@ If you are using c++ language, you can compile this way:
 
 - gcc file.c -o file 
 
-### How to run the output file 'terminal'
+### How to run the output file ´terminal´
 
 - ./file
 
